@@ -4,6 +4,10 @@
 <br>
 
 ---
+demo：https://icemakerhuang.github.io/swiper-navigationRWD/
+<br>
+
+---
 code：<br>
 ```js
     // 決定按鈕離當下輪播卡片(active)有多遠
